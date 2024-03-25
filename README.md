@@ -38,6 +38,6 @@
 
 <p><a href="https://github.com/RaulUrdanetaG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/raul-urdaneta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:raul.urdaneta2612@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:raul.urdaneta2612@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaulUrdanetaG)](https://github.com/anuraghazra/github-readme-stats)-->
