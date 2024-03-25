@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> i'm Raul, I'm a highly motivated Mechatronics Engineer with a strong foundation in interdisciplinary engineering principles, specializing in the fusion of mechanical, electrical, and software systems. Seeking opportunities to pivot my career towards roles that leverage my solid engineering background while allowing me to delve deeper into software-related projects.</p>
+<p>Welcome to my page! </br> I'm Raul, i'm a highly motivated Mechatronics Engineer with a strong foundation in interdisciplinary engineering principles, specializing in the fusion of mechanical, electrical, and software systems. Seeking opportunities to pivot my career towards roles that leverage my solid engineering background while allowing me to delve deeper into software-related projects.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
